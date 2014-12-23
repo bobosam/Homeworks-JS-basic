@@ -1,0 +1,9 @@
+button {
+    margin: 20px 100px;
+    width: 100px;
+    height: 40px;
+    display: block;
+    color: purple;
+    border: 1px solid purple;
+    border-radius: 5px;
+}
